@@ -1,0 +1,4 @@
+server_ip = "192.168.1.1"           # ip address of proxy-server
+service_port = 43078                # port for service connection with proxy-server
+bridge_port = 43079                 # port for bridge connections with proxy-server
+local_service_port = 25565          # port where the local service is running

@@ -1,0 +1,3 @@
+service_port = 43078    # port for service connection with proxy-client
+bridge_port = 43079     # port for bridge connections with proxy-client
+client_port = 25565     # port exposed to the public for client connections
